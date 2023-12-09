@@ -1,0 +1,4 @@
+#Super_Usuario_Administrativo: Gerente digital.
+#Email: gerentedigital@gmail.com
+senha: administrador
+
